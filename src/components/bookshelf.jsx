@@ -72,7 +72,7 @@ function Bookshelf() {
           <div class="pagination">
             <button>上一页</button>
             <span>
-              第 {{ currentPage }} 页，共 {{ totalPages }} 页
+              第 {} 页，共 {} 页
             </span>
             <button>下一页</button>
           </div>

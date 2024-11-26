@@ -3,7 +3,6 @@ import "../css/home.css";
 
 function Home() {
   return (
-    <div>
       <div class="main">
         <div class="box1">
           <p>Ranking of listenters</p>
@@ -85,7 +84,6 @@ function Home() {
           </div>
         </div>
       </div>
-    </div>
   );
 }
 
